@@ -214,3 +214,37 @@
 .points li img{
     width: 20px;
 }
+
+.cta-section{
+    padding: 0 20px 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.cta-box{
+    max-width: 1000px;
+    width: 100%;
+    background: #efe5e5a2;
+    border-radius: 2px;
+    padding: 60px 30px;
+    text-align: center;
+}
+
+.cta-button{
+    background: transparent;
+    color: #000000;
+    padding: 12px 24px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    border: 2px solid #30B868;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.cta-button:hover{
+    background: #30B868;
+    color: #ffffff;
+}
