@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'inter', sans-serif;
 }
 
 .container {
@@ -250,7 +251,7 @@
 }
 
 .footer{
-    background: #000000;
+    background: #000000d2;
     padding: 40px 80px;
     color: #ffffff;
 }
